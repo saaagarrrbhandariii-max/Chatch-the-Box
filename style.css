@@ -1,0 +1,13 @@
+
+body{text-aling:center;
+   fornt-family:Arial;
+   background:#f2f2f2;}
+
+   #box{width:60px;
+        height:60px;
+        background;orange;
+        position:absolute;
+        left:100px;
+        top:150px;
+        cursor:pointer;
+        border-radius:10px;}
