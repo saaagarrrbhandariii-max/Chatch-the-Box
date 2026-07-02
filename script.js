@@ -13,4 +13,3 @@ box.addEventListener("click", function () {
   box.style.left = x + "px";
   box.style.top = y + "px";
 });
-    
